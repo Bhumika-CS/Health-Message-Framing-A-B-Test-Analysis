@@ -1,4 +1,4 @@
-# 📊 Health Message Framing A/B Test Analysis
+# Health Message Framing A/B Test Analysis
 
 ## Overview
 
