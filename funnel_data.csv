@@ -1,0 +1,9 @@
+Stage,Message_Type,Count
+Users,Positive,5000
+Opens,Positive,3332
+Clicks,Positive,1278
+Subscriptions,Positive,318
+Users,Negative,5000
+Opens,Negative,3109
+Clicks,Negative,1081
+Subscriptions,Negative,245
